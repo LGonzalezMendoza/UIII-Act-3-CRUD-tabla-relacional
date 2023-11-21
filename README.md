@@ -7,7 +7,7 @@ Leonardo Gonzalez Mendoza
 ## Tbl Productos
 ![Tbl Productos](https://github.com/LGonzalezMendoza/UIII-Act-3-CRUD-tabla-relacional/blob/main/tblProductos.png)
 ## Tbl Productos vendidos
-![Tbl Productos vendidos](https://github.com/LGonzalezMendoza/UIII-Act-3-CRUD-tabla-relacional/blob/main/bd%20productos%20vendidos.png)
+![Tbl Productos vendidos](https://github.com/LGonzalezMendoza/UIII-Act-3-CRUD-tabla-relacional/blob/main/pd.png)
 ## Tbl Ventas
 ![Tbl Ventas](https://github.com/LGonzalezMendoza/UIII-Act-3-CRUD-tabla-relacional/blob/main/tblVentas.png)
 ## Index
